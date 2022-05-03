@@ -1,0 +1,17 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/chat/chat.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/users/users.css);
+@import url(../blocks/users/__name/users__name.css);
+@import url(../blocks/users/__text/users__text.css);
+
+@import url(../blocks/messeges/messeges.css);
+@import url(../blocks/messeges/__text/messeges__text.css);
+
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/_border/border.css);
+

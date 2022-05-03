@@ -1,0 +1,8 @@
+.messeges {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-height: calc(100vh - 150px);
+  overflow: auto;
+  box-sizing: border-box;
+}
